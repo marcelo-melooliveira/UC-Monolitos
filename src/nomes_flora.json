@@ -1,0 +1,35 @@
+{
+    "nomes":[
+        ["Jurema Preta", "Mimosa tenuiflora"],
+        ["Jucá", "Caesalpinea férrea"],
+        ["Mufumbo", "Cobretum leprosum"],
+        ["Pau Branco ", "Auxemma oncocalyx"],
+        ["Marmeleiro", "Croton blanchetianus "],
+        ["Sabiá", "Mimosa caesalpiniaefolia"],
+        ["Aroeira", "Myracrodruon urundeuva"],
+        ["Cajá", "Spondia mombim"],
+        ["Catingueira", "Caelsapinia pyramidalis"],
+        ["Pereiro", "Aspidosperma pyrifolium"],
+        ["Ipê-roxo", "Tabebuia impetiginosa"],
+        ["Barriguda", "Ceiba glaziovii"],
+        ["Pata de vaca", "Bauhinia cheilantha"],
+        ["Mutamba", "Guazuma umifolia"],
+        ["Oiticica", "Licania rígida"],
+        ["Juazeiro", "Ziziphus joazeiro"],
+        ["Tamboril", "Enterolobium contorsiliquum"],
+        ["Ingá", "Inga edulis"],
+        ["Jurema Branca", "Piptadenia stipulacea"],
+        ["Sabonete", "Sapindus saponária"],
+        ["Carnaúba", "Copernicia prunifera"],
+        ["Angico", "Anadenanthera colubrina"],
+        ["Ipê-amarelo", "Tabebuia serratifolia"],
+        ["Jatobá", "Hymenea courbaril"],
+        ["Freijó", "Cordia trichotoma"],
+        ["Mandacaru", "Cereus jamacuru"],
+        ["Xique-xique", "Pilocereus gounellei"],
+        ["popular", "cientifico"],
+        ["popular", "cientifico"],
+        ["popular", "cientifico"]
+
+    ]
+    }

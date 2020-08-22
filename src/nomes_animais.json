@@ -1,0 +1,28 @@
+{
+    "nomes":[
+        ["Periquito cara-suja", "Pyrrhura griseipectus"],
+        ["João de barro", "Furnarius rufus"],
+        ["Asa branca ", "Patagioenas picazuro"],
+        ["Bem-te-vi ", "Pitangus sulphuratus"],
+        ["Codorna do Nordeste ", "Nothura boraquira"],
+        ["Irerê", "Dendrocygna viduata"],
+        ["Mergulhão ", "Podilymbus podiceps"],
+        ["Gavião-caboclo ", "Heterospizias meridionalis"],
+        ["Gavião-carijó ","Rupornis magnirostris"],
+        ["Gavião-caramujeiro","Rosthramus sociabilis"],
+        ["Quero-quero ","Vanellus chilensis"],
+        ["Rolinha fogo-apagou ","Columbina squamata"],
+        ["Anu-preto ","Crotophaga ani"],
+        ["Coruja buraqueira","Athene cunicularia"],
+        ["Bacurauzinho da caatinga","Hydropsalis hirundinacea"],
+        ["Surucuá de coroa azul","Trogon curucui"],
+        ["Martim-pescador grande","Megaceryle torquata"],
+        ["Chilu-chilu","Nystalus maculatus"],
+        ["Carcará","Caracara plancus"],
+        ["Periquito-rei","Eupsittula aurea"],
+        ["Canário da terra ","Sicalis flaveola"],
+        ["Seriema","Cariama cristata"],
+        ["Jaguarundi","Herpailurus yagouaroundi"],
+        ["Gato-maracajá","Leopardus wiedi"]
+    ]
+}
